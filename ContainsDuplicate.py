@@ -12,6 +12,10 @@ class Solution1:
                 return True
         return False
     
+    
+# **************************************************
+
+
 class Solution2:
     def hasDuplicate(self, nums: List[int]) -> bool:
         # initialize counting hashmap
